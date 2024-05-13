@@ -1,0 +1,40 @@
+html {
+    background-color:  #bd9978;
+    background-image: url(images/NOVA\ VESHTI\ BACKGROUND\ IMAGE\ NO\ BACKGROUND.png);
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+    background-position-x: center;
+    background-attachment: scroll;
+    background-size: cover;
+ 
+}
+
+.container1 {  
+ margin-left: 36%;
+margin-right: 50%;}
+
+.container2{
+    position: absolute;
+    top: 440px;
+}
+
+.container3{
+position: absolute;
+top: 512px;
+left: 370px;
+}
+
+.container4{
+    position: absolute;
+    top: 500px;
+    left: 1500px;
+}
+
+.container5{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    position: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
